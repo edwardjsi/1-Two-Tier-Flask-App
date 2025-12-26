@@ -301,6 +301,8 @@ pipeline {
 ### **8. Conclusion**
 The CI/CD pipeline is now fully operational. Any `git push` to the `main` branch of the configured GitHub repository will automatically trigger the Jenkins pipeline, which will build the new Docker image and deploy the updated application, ensuring a seamless and automated workflow from development to production.
 
+# Full deploy triggered on Dec 26, 2025 — app live!
+
 
 ### **9. Infrastructure Diagram**
 <img src="diagrams/Infrastructure.png">
