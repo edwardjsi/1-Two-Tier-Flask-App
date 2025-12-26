@@ -1,3 +1,5 @@
+# Deployed successfully by Edward on AWS EC2 with Jenkins CI/CD!
+
 import os
 from flask import Flask, render_template, request, redirect, url_for, jsonify
 from flask_mysqldb import MySQL
